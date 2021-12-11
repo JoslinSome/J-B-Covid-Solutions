@@ -19,7 +19,7 @@ When a user signs up, his vaccination status is set as False, he can view all si
 **Log in/sign up  -scheme for identification of users (individuals, organizations, other 
 possible account types)**
 
-![Home Screen](https://github.com/JoslinSome/test1/blob/main/ezgif.com-gif-maker%20(3).gif?raw=true)
+![Home Screen](https://github.com/JoslinSome/test1/blob/main/ReadMe%20Images/ezgif.com-gif-maker%20(3).gif?raw=true)
 
 ### User Documentation and requirement Fufillement
 
@@ -33,7 +33,7 @@ On organization can create an account using the sign up button and following the
 Once logged in, an organization can add their mask regulation policies that will be directly viewable by the Users. We currently only have one organization set up which you can view with the login: **Username: 'Wendys1' Password: '1234'**
 but feel free to add more by signing some up! For your convenience, we have added company logo's to the TestLogos folder
 
-![Organization example](https://github.com/JoslinSome/test1/blob/main/Screen_Shot_2021-12-06_at_2.53.35_AM_35.png?raw=true)
+![Organization example](https://github.com/JoslinSome/test1/blob/main/ReadMe%20Images/Screen_Shot_2021-12-06_at_2.53.35_AM_35.png?raw=true)
 
 
 **-User, Mobile interface for individuals to update and validate their vaccination records 
@@ -42,17 +42,17 @@ but feel free to add more by signing some up! For your convenience, we have adde
 When a user logs in, he can see his current Vaccination status along with a list of all
 the logged in Organizations you can search through this list for a particular Organization. Double tapping on an organization will take you to a page showing that organization's policies along with your distance from them. you can use the credentials **Username: 'Joslin12' Password: '1234'** to log in as a user or feel free to make your own account.
 
-![User page](https://github.com/JoslinSome/test1/blob/main/Screen_Shot_2021-12-06_at_3.09.13_AM_35.png?raw=true)
+![User page](https://github.com/JoslinSome/test1/blob/main/ReadMe%20Images/Screen_Shot_2021-12-06_at_3.09.13_AM_35.png?raw=true)
 
 **-Admin**
 The administrator profile is created directly by a J&B executive and cannot be made by using the App. from the admin login you can view all current users and set their vaccination status to true, and Organazations. You can search through the tables at your leasure .Please use the credentials (without the quotes):
 **Username: 'Swd' , Password: 'abcd'** in order to login as an admin.
-![Admin](https://github.com/JoslinSome/test1/blob/main/ezgif.com-gif-maker%20(5).gif?raw=true)
+![Admin](https://github.com/JoslinSome/test1/blob/main/ReadMe%20Images/ezgif.com-gif-maker%20(5).gif?raw=true)
 
 **Security mesures:**
 
 Our app uses SHA-12 hashing to store passwords securely into the database
-![Table](https://github.com/JoslinSome/test1/blob/main/Screen_Shot_2021-12-06_at_3.50.44_AM_1_50.png?raw=true)
+![Table](https://github.com/JoslinSome/test1/blob/main/ReadMe%20Images/Screen_Shot_2021-12-06_at_3.50.44_AM_1_50.png?raw=true)
 
 ### Potential errors to fix 
 
@@ -80,8 +80,8 @@ We also had various controller classes for each of the GUI pages
 For more information please refer to the [Java docs](http://localhost:63343/team17_swd/docs/allclasses-index.html?_ijt=23i4fv80vpreovrjkbv66u2uci)
 
 ## UML Diagram
-![UML Diagram](https://class-git.engineering.uiowa.edu/swd2021fall/team17_swd/-/raw/main/FinalProject/OrganizationScreenController.png)
+![UML Diagram](https://github.com/JoslinSome/test1/blob/main/OrganizationScreenController.png?raw=true)
 
 ## Source Code
 
-[Click here for Source code](https://class-git.engineering.uiowa.edu/swd2021fall/team17_swd/-/tree/main/FinalProject/src)
+[Click here for Source code](https://github.com/JoslinSome/test1/tree/main/src)
