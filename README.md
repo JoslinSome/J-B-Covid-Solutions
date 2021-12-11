@@ -1,7 +1,7 @@
 # team17_swd
 
 ### Problem Statement
-We at J&B Covid Solutions Have opted to find a way to make vaccination checking accessible and easy for everyone. Due to the immediate need of such  product we have dedicated many hours of our precious weekend to develop the best possible application. 
+We at J&B Covid Solutions Have opted to find a way to make vaccination Verification accessible and easy for everyone. Due to the immediate need of such  product we have dedicated many hours of our precious weekend to develop the best possible application. 
 ### Important
 Our App uses a login system that considers 3 types of individuals,  Users, Organizations and Admins. Users and Organizations can be created by anyone using the app but, Admin accounts are directly created by us for security reasons. For your convenience, please use the credentials (without the quotes):
 **Username: 'Swd' , Password: 'abcd'** in order to login as an admin.
