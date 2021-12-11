@@ -25,7 +25,7 @@ possible account types)**
 
 There are 3 user roles in this app. You can log in as either a User, an Organization or an Admin. 2 of these roles can be accessed by anyone just by creating an account at login
 **Please note that we have a back button on the top left of most screens to undo previous actions**
-![Sign up](https://github.com/JoslinSome/test1/blob/main/Screen_Shot_2021-12-06_at_2.44.33_AM_1_35.png?raw=true)
+![Sign up](https://github.com/JoslinSome/test1/blob/main/ReadMe%20Images/Screen_Shot_2021-12-06_at_2.44.33_AM_1_35.png?raw=true)
 
 **-Organization interface for organizations to create their own public profile which includes their COVID 19 guidelines requirement**
 
